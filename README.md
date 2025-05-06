@@ -1,6 +1,6 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, My name is Najar Anas
 
-Frontend-focused software engineer passionate about building intuitive digital experiences across web and mobile platforms.<br><br>- Dedicated to clean code, thoughtful UI/UX design, and scalable frontend architectures.<br>- Experienced in developing user-facing applications that prioritize performance and usability.<br>- Enthusiastic about continuous learning, open-source collaboration, and staying current with modern development trends.
+Frontend software engineer passionate about building intuitive digital experiences across web and mobile platforms.<br><br>- Dedicated to clean code, thoughtful UI/UX design, and scalable frontend architectures.<br>- Experienced in developing user-facing applications that prioritize performance and usability.<br>- Enthusiastic about continuous learning, open-source collaboration, and staying current with modern development trends.
 
 
 # 💻 Tech Stack:
