@@ -11,13 +11,15 @@ Frontend software engineer passionate about building intuitive digital experienc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnajar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasnajar.tn@gmail.com) 
 
 # 📊 GitHub Stats:
-![Anas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasnajar&show_icons=true&theme=radical)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anasnajar&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasnajar&layout=compact&theme=radical)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=najaranas&show_icons=true&theme=radical" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=najaranas&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaranas&layout=compact&theme=radical" >
+</div>
 
 
                   
-[![](https://visitcount.itsvg.in/api?id=anasnajar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=najaranas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
