@@ -11,9 +11,10 @@ Frontend software engineer passionate about building intuitive digital experienc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnajar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasnajar.tn@gmail.com) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anasnajar&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anasnajar&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasnajar&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=anasnajar&show_icons=true&theme=radical)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anasnajar&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasnajar&layout=compact&theme=radical)
+
 
                   
 [![](https://visitcount.itsvg.in/api?id=anasnajar&icon=0&color=0)](https://visitcount.itsvg.in)
