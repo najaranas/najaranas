@@ -15,7 +15,7 @@ Frontend software engineer passionate about building intuitive digital experienc
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=najaranas&show_icons=true&theme=radical" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=najaranas&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaranas&layout=compact&theme=radical&cache_seconds=60">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najaranas&layout=compact&theme=radical&cache_seconds=3600">
 
 </div>
 
