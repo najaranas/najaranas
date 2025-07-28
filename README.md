@@ -9,7 +9,7 @@ Frontend software engineer passionate about building intuitive digital experienc
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnajar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasnajar.tn@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anasnajar) [![X (Twitter)](https://img.shields.io/badge/twitter-000000?logo=x&logoColor=white)](https://x.com/anasnajar_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anasnajar.tn@gmail.com) 
 
 # 📊 GitHub Stats:
 <div align="left">
